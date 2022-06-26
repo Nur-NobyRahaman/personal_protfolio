@@ -10,6 +10,9 @@ function Linkedin(){
 function Skype(){
    location.href="https://github.com/Nur-NobyRahaman/developer-protdfolio";
 }
-function Youtube(){
-   location.href="https://github.com/Nur-NobyRahaman/developer-protdfolio";
+function twitar(){
+   location.href="https://twitter.com/home";
+}
+function instra(){
+   location.href="https://www.instagram.com/nur.noby.9883/";
 }
