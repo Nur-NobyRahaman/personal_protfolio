@@ -1,18 +1,25 @@
 function gitButton(){
-   location.href="https://github.com/Nur-NobyRahaman/developer-protdfolio";
+   URL="https://github.com/Nur-NobyRahaman/developer-protdfolio";
+   window.open(URL,'_blank')
 }
 function facebook(){
-   location.href="https://www.facebook.com/nur.noby.2588/";
+   URL="https://www.facebook.com/nur.noby.2588/";
+   window.open(URL,'_blank')
 }
+
 function Linkedin(){
-   location.href="https://www.linkedin.com/in/nur-noby-40293b182/";
+   URL="https://www.linkedin.com/in/nur-noby-40293b182/";
+   window.open(URL,'_blank')
 }
 function Skype(){
-   location.href="https://github.com/Nur-NobyRahaman/developer-protdfolio";
+   URL="https://github.com/Nur-NobyRahaman/developer-protdfolio";
+   window.open(URL,'_blank')
 }
 function twitar(){
-   location.href="https://twitter.com/home";
+   URL="https://twitter.com/home";
+   window.open(URL,'_blank')
 }
 function instra(){
-   location.href="https://www.instagram.com/nur.noby.9883/";
+   URL="https://www.instagram.com/nur.noby.9883/";
+   window.open(URL,'_blank')
 }
